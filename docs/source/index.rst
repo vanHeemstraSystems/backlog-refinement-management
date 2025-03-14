@@ -1,5 +1,5 @@
 Welcome to Refinement Management Documentation
-======================================
+===============================================
 
 .. toctree::
    :maxdepth: 2
