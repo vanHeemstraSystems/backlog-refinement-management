@@ -24,11 +24,11 @@ Note: This is NOT and "All day" event.
 
 Recommended: Good practise is to hold your Backlog Refinement at the start of your Sprint.
 
-See `Backlog refinement: what is it and how do you approach it? <https://www.sienn.com/backlog-refinement-what-is-it-and-how-do-you-approach-it>_`.
+See `Backlog refinement: what is it and how do you approach it? <https://www.sienn.com/backlog-refinement-what-is-it-and-how-do-you-approach-it>`_.
 
 Sprint planning takes place at the start of each sprint. 
 
-`Backlog refinement needs to happen before each sprint planning meeting which is usually every two weeks <https://www.atlassian.com/agile/scrum/backlog-refinement>_`. Most teams need about 30 minutes to walk through the process. 
+`Backlog refinement needs to happen before each sprint planning meeting which is usually every two weeks <https://www.atlassian.com/agile/scrum/backlog-refinement>`_. Most teams need about 30 minutes to walk through the process. 
 
 **What happens during a backlog refinement meeting?**
 Backlog refinement focuses on adjusting, estimating, and ranking the issues. Adjustments can be small things like adding descriptions and large edits like splitting or combining issues. Adding estimations often happens in backlog refinement aided by the dev team. Lastly, ranking the backlog in a clear, well-understood manner helps the dev team know what is the highest-priority.
