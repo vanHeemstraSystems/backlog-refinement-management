@@ -1,5 +1,5 @@
 Create Refinement Events in Microsoft Teams
-===============================================
+============================================
 
 In Microsoft Teams, from the Calendar tab, choose "New event".
 
