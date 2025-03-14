@@ -1,5 +1,5 @@
-Welcome to Refinement Management Documentation
-===============================================
+Welcome to Backlog Refinement Management Documentation
+=======================================================
 
 .. toctree::
    :maxdepth: 2
